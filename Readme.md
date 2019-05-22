@@ -10,4 +10,8 @@ This is ID_02
 
 So this is in branch B_01. go to branch B_01_01 to see more.
 
+<<<<<<< HEAD
 So this can only be see in branch B_01_01!
+=======
+So i fucked up..
+>>>>>>> B_01_01
