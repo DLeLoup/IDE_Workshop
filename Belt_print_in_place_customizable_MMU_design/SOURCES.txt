@@ -1,3 +1,0 @@
-Sources for Belt (print in place, customizable, MMU design)
-
-Belt (http://www.thingiverse.com/thing:325458)
